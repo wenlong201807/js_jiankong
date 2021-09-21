@@ -13,6 +13,7 @@
   "dependencies": {
     "koa": "^2.13.1",
     "koa-static": "^5.0.0",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "source-map": "^0.7.3"
   }
 }
