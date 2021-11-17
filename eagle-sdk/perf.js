@@ -1,4 +1,5 @@
 // https://developer.mozilla.org/zh-CN/docs/Web/API/PerformanceTiming
+// 参考资料 https://segmentfault.com/a/1190000014479800
 
 let perf = {
   init: (cb) => {

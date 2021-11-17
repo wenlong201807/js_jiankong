@@ -1,6 +1,7 @@
 # 参考资料
 
 1. https://zhuanlan.zhihu.com/p/43746227
+2. https://segmentfault.com/a/1190000014479800
 
 ## 首字节性能
 
